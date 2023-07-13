@@ -1,0 +1,2 @@
+# NydoAppQA
+Ambiente de pruebas
